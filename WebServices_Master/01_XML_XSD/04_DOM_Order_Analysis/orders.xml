@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<orders>
+ <order id="O1" status="Delivered"><customer>Asha</customer><product>Book</product><price>500</price></order>
+ <order id="O2" status="Pending"><customer>Ravi</customer><product>Pen</product><price>100</price></order>
+ <order id="O3" status="Delivered"><customer>Neha</customer><product>Bag</product><price>1200</price></order>
+</orders>

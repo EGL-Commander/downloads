@@ -1,0 +1,112 @@
+WEB SERVICES PRACTICAL DOWNLOAD INDEX
+Replace YOUR_GITHUB_USER and YOUR_REPOSITORY with your actual GitHub details.
+The individual ZIPs are stored inside the matching practical folders under WebServices_Master.
+
+Example command (PowerShell):
+curl.exe -L -o 01_XSD_Validation.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/01_XML_XSD/02_XSD_Validation/02_XSD_Validation.zip"
+
+Individual ZIP paths:
+# WEB SERVICES PRACTICAL DOWNLOAD INDEX
+
+Replace `YOUR_GITHUB_USER` and `YOUR_REPOSITORY` with your actual GitHub username and repository name.
+
+Each command downloads one individual practical ZIP directly. Run the command in PowerShell.
+
+## XML & XSD
+
+**01_XML_Document_Creation**
+```powershell
+curl.exe -L -o 01_XML_Document_Creation.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/01_XML_XSD/01_XML_Document_Creation/01_XML_Document_Creation.zip"
+```
+
+**02_XSD_Validation**
+```powershell
+curl.exe -L -o 02_XSD_Validation.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/01_XML_XSD/02_XSD_Validation/02_XSD_Validation.zip"
+```
+
+**03_DOM_Read_XML**
+```powershell
+curl.exe -L -o 03_DOM_Read_XML.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/01_XML_XSD/03_DOM_Read_XML/03_DOM_Read_XML.zip"
+```
+
+**04_DOM_Order_Analysis**
+```powershell
+curl.exe -L -o 04_DOM_Order_Analysis.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/01_XML_XSD/04_DOM_Order_Analysis/04_DOM_Order_Analysis.zip"
+```
+
+**05_StAX_Student_Major**
+```powershell
+curl.exe -L -o 05_StAX_Student_Major.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/01_XML_XSD/05_StAX_Student_Major/05_StAX_Student_Major.zip"
+```
+
+## JSON
+
+**01_Read_JSON_Java**
+```powershell
+curl.exe -L -o 01_Read_JSON_Java.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/02_JSON/01_Read_JSON_Java/01_Read_JSON_Java.zip"
+```
+
+**02_Read_JSON_JavaScript**
+```powershell
+curl.exe -L -o 02_Read_JSON_JavaScript.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/02_JSON/02_Read_JSON_JavaScript/02_Read_JSON_JavaScript.zip"
+```
+
+**03_XML_to_JSON**
+```powershell
+curl.exe -L -o 03_XML_to_JSON.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/02_JSON/03_XML_to_JSON/03_XML_to_JSON.zip"
+```
+
+**04_JSON_to_XML**
+```powershell
+curl.exe -L -o 04_JSON_to_XML.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/02_JSON/04_JSON_to_XML/04_JSON_to_XML.zip"
+```
+
+## Networking
+
+**01_TCP_Client_Server**
+```powershell
+curl.exe -L -o 01_TCP_Client_Server.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/03_Networking/01_TCP_Client_Server/01_TCP_Client_Server.zip"
+```
+
+**02_UDP_Client_Server**
+```powershell
+curl.exe -L -o 02_UDP_Client_Server.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/03_Networking/02_UDP_Client_Server/02_UDP_Client_Server.zip"
+```
+
+**03_TCP_Multi_Client_Chat**
+```powershell
+curl.exe -L -o 03_TCP_Multi_Client_Chat.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/03_Networking/03_TCP_Multi_Client_Chat/03_TCP_Multi_Client_Chat.zip"
+```
+
+## RMI
+
+**01_RMI_Calculator**
+```powershell
+curl.exe -L -o 01_RMI_Calculator.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/04_RMI/01_RMI_Calculator/01_RMI_Calculator.zip"
+```
+
+## SOAP
+
+**01_SOAP_Temperature_Conversion**
+```powershell
+curl.exe -L -o 01_SOAP_Temperature_Conversion.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/05_SOAP/01_SOAP_Temperature_Conversion/01_SOAP_Temperature_Conversion.zip"
+```
+
+**02_SOAP_Student_Service**
+```powershell
+curl.exe -L -o 02_SOAP_Student_Service.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/05_SOAP/02_SOAP_Student_Service/02_SOAP_Student_Service.zip"
+```
+
+## REST
+
+**01_REST_Student_CRUD**
+```powershell
+curl.exe -L -o 01_REST_Student_CRUD.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/06_REST/01_REST_Student_CRUD/01_REST_Student_CRUD.zip"
+```
+
+## UDDI
+
+**01_UDDI_Service_Registry_Demo**
+```powershell
+curl.exe -L -o 01_UDDI_Service_Registry_Demo.zip "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPOSITORY/main/WebServices_Master/07_UDDI/01_UDDI_Service_Registry_Demo/01_UDDI_Service_Registry_Demo.zip"
+```

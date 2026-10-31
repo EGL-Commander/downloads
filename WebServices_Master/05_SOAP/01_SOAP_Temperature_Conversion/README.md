@@ -1,0 +1,13 @@
+# SOAP temperature conversion
+
+## Import into Eclipse
+1. File → Import → Maven → Existing Maven Projects. 2. Select this folder and finish. 3. Right-click project → Maven → Update Project.
+
+## Run
+Run `Server.java` first. Open `http://localhost:8080/temperature?wsdl` to view WSDL. Then run `Client.java`.
+
+## Notes
+- Requires a compatible JDK (17 or newer unless noted).
+- Keep the supplied data files in the project root unless the source says otherwise.
+- If Eclipse shows build errors: check Project → Properties → Java Build Path and ensure the selected JDK is installed.
+- For Maven projects, use Maven → Update Project; an internet connection is needed on first dependency download.
